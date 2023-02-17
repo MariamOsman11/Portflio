@@ -90,3 +90,162 @@ h3 {
     background-color: white;
   }
 }
+.main-works {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  gap: 12px;
+  width: 327px;
+  height: 552px;
+  background: white;
+  border: 1px solid #dfe1e6;
+  border-radius: 16px;
+}
+
+.works {
+  width: 295px;
+  height: 220px;
+
+  background: url(blog_drbl_4x.png);
+  border-radius: 8px;
+}
+.project-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+  padding-top: 2px;
+}
+.canopy {
+  padding-top: 5px;
+  padding-right: 3px;
+}
+span img {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+}
+
+.pro-description {
+  width: 295px;
+  height: 76px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+
+  color: #344563;
+}
+.main-languages {
+  display: flex;
+  border-radius: 8px;
+  gap: 12px;
+  margin-left: -8px;
+  list-style-type: none;
+}
+.language {
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #6070ff;
+  background: #ebebff;
+  border: 8px solid #ebebff;
+  border-radius: 10px;
+}
+.see {
+  width: 140px;
+  height: 52px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  padding-left: 16px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  color: #396df2;
+  background: #fff;
+  border: 2px solid #396df2;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+.aboutmyself {
+  width: 327px;
+  height: 101px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+  flex: none;
+}
+.my-resume {
+  padding: 10px;
+  border-radius: 5px;
+  color: #396df2;
+  border-color: #396df2;
+  background-color: white;
+}
+.aboutme-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  gap: 12px;
+  width: 327px;
+  background: white;
+  border: 1px solid #dfe1e6;
+  border-radius: 16px;
+}
+.languages-title {
+  margin-left: 2px;
+  list-style-type: none;
+}
+.frames {
+  display: inline;
+  margin-top: 10px;
+  box-shadow: 0 1px #dfe1e6;
+}
+
+.contact-me {
+  background-image: url("images/header-shapes\ mobile.png");
+  background-repeat: no-repeat;
+  background-color: #6070ff;
+  border-top-left-radius: 25px;
+  color: white;
+  font-weight: 500;
+}
+.contact-me h2 {
+  margin-left: 10px;
+}
+.contact-me p {
+  margin-left: 10px;
+}
+.contact-me input {
+  border-radius: 5px;
+  margin: 10px;
+  padding: px;
+}
+.contact-me textarea {
+  margin: 10px;
+}
+.contact-me button {
+  margin-bottom: 20px;
+  margin: 10px;
+}
