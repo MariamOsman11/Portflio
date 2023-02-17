@@ -17,7 +17,7 @@
 
 # 📖 [Hello-microverse] <a name="Hello-microverse"></a>
 
-**[setup and mobile first]** setup and mobile first projects for coding figma design to professional-looking code.
+**[setup and mobile first]** finish mobile version projects for coding figma design to professional-looking code.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,7 +38,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Creating "setup and mobile first" project
+Creating "finish mobile version" project
 
 To get a local copy up and running, follow these steps.
 
