@@ -33,9 +33,12 @@
 
 # 📖 [PERSONAL PORTFOLIO] <a name="about-project"></a>
 
-> A "portfolio" HTML-5 & CSS3 repository built during the portal learning module.
+> here I implement on the mobile menu
+When the user clicks (or taps) the hamburger button, the mobile menu appears.
+When the user clicks (or taps) the close (X) button, the mobile menu disappears.
+When the user clicks (or taps) any of the mobile menu options, the mobile menu disappears.
+When the user clicks (or taps) any of the mobile menu options, a correct part of the page is displayed.
 
-It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CSS3 flexbox, grid and figma.
 
 ## 🛠 Built With <a name="built-with"></a>
 
