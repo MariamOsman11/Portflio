@@ -11,6 +11,7 @@
 body {
   background: #f7f7f9;
   height: auto;
+  z-index: 0;
 }
 
 .hero {
@@ -597,4 +598,43 @@ hr.new1 {
 .user-message,
 .user-email:focus {
   outline: none;
+}
+
+#mobile-menu {
+  height: 600px;
+  width: 100%;
+  position: absolute;
+  background-color: #6070ff;
+  mix-blend-mode: multiply;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  visibility: hidden;
+  display: block;
+  z-index: 99;
+}
+
+#closingmenu {
+  margin-left: 92%;
+  margin-top: 2%;
+}
+
+#menu-list {
+  margin-left: 50px;
+  margin-top: 50px;
+  line-height: 44px;
+  font-weight: 600;
+  font-family: "poppins", sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#heading-list {
+  filter: blur(8px);
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
