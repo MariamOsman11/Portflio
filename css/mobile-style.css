@@ -598,3 +598,51 @@ hr.new1 {
 .user-email:focus {
   outline: none;
 }
+
+/*  */
+
+#mobile-menu{
+  height:730px;
+  width: 100%;
+  position: absolute;
+  background-color: #6070FF;
+  mix-blend-mode: multiply;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  visibility: hidden;
+  display: block;
+
+  
+
+}
+
+#closingmenu{
+margin-left:92%;
+margin-top: 2%;
+
+}
+
+#menu-list{
+  /* position: absolute;
+  height: 24px;
+  left: 50px;
+  right: 68px;
+   top:100px;
+  font-family: "poppins" ,sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 44px;
+  /* text-decoration: none; */
+  /* list-style-type: none;
+  color: white; */ 
+margin-left: 50px;
+margin-top: 50px;
+line-height: 44px;
+list-style-type: none;
+font-weight: 600;
+font-family: "poppins" ,sans-serif;
+
+}
