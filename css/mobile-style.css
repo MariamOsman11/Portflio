@@ -599,8 +599,6 @@ hr.new1 {
   outline: none;
 }
 
-/*  */
-
 #mobile-menu {
   height: 730px;
   width: 100%;
@@ -627,6 +625,5 @@ hr.new1 {
   list-style-type: none;
   font-weight: 600;
   font-family: "poppins", sans-serif;
-  list-style-type: none;
   color: white;
 }
