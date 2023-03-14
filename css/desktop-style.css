@@ -18,12 +18,20 @@
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
-    line-height: 20px;
-  }
+    line-height: 20px; 
+    transition: width 2s linear 1s;
+    }
 
   .nav-links li a {
     text-decoration: none;
     color: #344563;
+  }
+
+  .nav-links:hover{
+    transition: ease-in-out all .3s;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
   }
 
   /* Portfolio-Homepage Section */
