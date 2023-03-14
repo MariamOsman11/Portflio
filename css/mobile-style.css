@@ -600,7 +600,6 @@ hr.new1 {
   outline: none;
 }
 
-
 #mobile-menu {
   height: 600px;
   width: 100%;
@@ -613,10 +612,7 @@ hr.new1 {
   bottom: 0;
   visibility: hidden;
   display: block;
- z-index: 99;
-
-
-
+  z-index: 99;
 }
 
 #closingmenu {
@@ -625,23 +621,15 @@ hr.new1 {
 }
 
 #menu-list {
-   margin-left: 50px;
+  margin-left: 50px;
   margin-top: 50px;
   line-height: 44px;
   font-weight: 600;
   font-family: "poppins", sans-serif;
   text-decoration: none;
   list-style-type: none;
-
 }
 
-#heading-list{
+#heading-list {
   filter: blur(8px);
- 
-
- 
- 
 }
-
-
-
