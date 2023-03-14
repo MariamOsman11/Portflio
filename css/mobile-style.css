@@ -601,37 +601,32 @@ hr.new1 {
 
 /*  */
 
-#mobile-menu{
-  height:730px;
+#mobile-menu {
+  height: 730px;
   width: 100%;
   position: absolute;
-  background-color: #6070FF;
+  background-color: #6070ff;
   mix-blend-mode: multiply;
-  top:0;
-  left:0;
-  right:0;
-  bottom:0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   visibility: hidden;
   display: block;
-
-  
-
 }
 
-#closingmenu{
-margin-left:92%;
-margin-top: 2%;
-
+#closingmenu {
+  margin-left: 92%;
+  margin-top: 2%;
 }
 
-#menu-list{ 
-margin-left: 50px;
-margin-top: 50px;
-line-height: 44px;
-list-style-type: none;
-font-weight: 600;
-font-family: "poppins" ,sans-serif;
-list-style-type: none;
-color: white;
-
+#menu-list {
+  margin-left: 50px;
+  margin-top: 50px;
+  line-height: 44px;
+  list-style-type: none;
+  font-weight: 600;
+  font-family: "poppins", sans-serif;
+  list-style-type: none;
+  color: white;
 }
