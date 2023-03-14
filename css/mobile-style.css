@@ -633,3 +633,9 @@ hr.new1 {
 #heading-list {
   filter: blur(8px);
 }
+
+a{
+  text-decoration: none;
+  color: white;
+ 
+}
